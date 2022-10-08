@@ -1,0 +1,20 @@
+Project 50 ~ Hot Air Balloon
+
+storyline:
+-3 kids going to grandparents' house in hot air balloon
+-collecting fruit and gifts for grandparents
+-on the way, birds and planes can hit hot air balloon
+
+scoring:
+-3 lives total
+-birds and planes = obstacles
+-if touching obstacle = life -1
+-if collecting fruit and gifts = score +5
+
+background:
+-series of images in loop
+
+animations:
+-hot air balloon --> up, down, right, left
+-obstacles --> bird/plane flying (random positions)
+-balloon pops when touching obstacles
